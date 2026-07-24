@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-🚀 [https://matteojose3112-bit.github.io/crm-operations-dashboard/]
+🚀  https://matteojose3112-bit.github.io/crm-operations-dashboard/
 
 ---
 
